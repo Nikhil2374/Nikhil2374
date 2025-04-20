@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI&ML**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
