@@ -1,29 +1,90 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">🚀 Hey, I'm Nikhil Kumar</h1>
+<h3 align="center">Engineering the Future | Full Stack Developer | Java • Spring Boot • AI/ML</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil2374&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil2374" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhil2374&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Nikhil2374" />
 </p>
 
+---
 
-- 🔭 I’m currently working on **Spring Boot**
+### 👨‍💻 Who Am I?
 
-- 🌱 I’m currently learning **AI&ML**
+```java
+public class Nikhil extends Developer {
+    String[] skills = { "Java", "Spring Boot", "React", "MySQL", "Docker", "AI/ML", "REST APIs" };
+    String currentFocus = "Building production-ready Spring Boot APIs and exploring Machine Learning";
+    String email = "nikhil37641@gmail.com";
+}
+```
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🧠 Exploring the intersection of **AI**, **Cloud**, and **Backend Engineering**  
+- 🔭 Currently building robust APIs with **Spring Boot**  
+- 🐳 Dockerizing apps & preparing for **Kubernetes**  
+- 🤝 Open to collaborating on impactful **open-source** & **AI/ML** projects  
+- 📫 Reach me at: [nikhil37641@gmail.com](mailto:nikhil37641@gmail.com)  
+- 📄 [Check out my resume](https://drive.google.com/file/d/1_AmQOnJFmgVxzXZ3tUuUsFcxzeuWadd6/view?usp=sharing)
 
-- 📫 How to reach me **nikhil37641@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_AmQOnJFmgVxzXZ3tUuUsFcxzeuWadd6/view?usp=sharing](https://drive.google.com/file/d/1_AmQOnJFmgVxzXZ3tUuUsFcxzeuWadd6/view?usp=sharing)
+### 🛠️ Tech Stack I Work With:
 
-<h3 align="left">Connect with me:</h3>
+| Category       | Technologies                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| 🚀 Backend     | `Java` · `Spring Boot` · `Spring Data JPA` · `REST APIs`                      |
+| 🧠 AI/ML       | `NumPy` · `Pandas` · `scikit-learn` · `TensorFlow`                            |
+| 🌐 Frontend    | `React.js` · `HTML5` · `CSS3` · `JavaScript`                                  |
+| 💾 DB & Tools  | `MySQL` · `OracleDB` · `Docker` · `Postman` · `Git`                           |
+| ☁️ Others      | `VS Code` · `GitHub Actions` · `SDLC` · `Agile`                               |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil2374&theme=github_dark&show_icons=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2374&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🔹 **Weather Forecast System** – React + Bootstrap + OpenWeatherMap API  
+- 🔹 **Drowsiness Detection** – Python + OpenCV + Deep Learning  
+- 🔹 **Spring Boot REST API** – Basic Calculator (Dockerized + Swagger UI)  
+
+👉 *Links and repos coming soon!*
+
+---
+
+### 🔗 Connect With Me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-kumar-605a08231" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikhil Kumar LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/nikhil-kumar-605a08231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikhil37641@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nikhil2374" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🌱 Currently Learning
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil2374&show_icons=true&locale=en&layout=compact" alt="nikhil2374" /></p>
+`Machine Learning`, `Docker`, `System Design`, `Microservices`, `Kubernetes (next)`
+
+---
+
+### ⚡ Fun Facts
+
+- 🔋 I believe in **building instead of just learning**  
+- 🎯 Debugging is my puzzle game  
+- 🧳 I explore tech events, communities, and hackathons for fun  
+
+---
+
+> 🧠 *Let’s build something powerful, elegant, and impactful together 🚀*
